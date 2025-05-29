@@ -1,6 +1,6 @@
 # 🍽️ Restaurant Web
 
-Welcome to the **Restaurant Website** project! This repository contains the source code for my very first basic project, a responsive and user-friendly restaurant website. The site showcases various sections typical for a restaurant's online presence, including menus, locations, galleries, and contact information.
+Welcome to the **Restaurant Website** project! This repository contains the source code for my very first project, a responsive and user-friendly restaurant website. The site showcases various sections typical for a restaurant's online presence, including menus, locations, galleries, and contact information.
 
 ## 📖 Overview
 
@@ -9,7 +9,7 @@ This project is a static website built using:
 * **HTML5**: Structuring the content semantically.
 * **CSS3**: Styling the components with responsiveness in mind.
 
-The website is designed to provide visitors with an engaging experience, highlighting the restaurant's offerings and ambiance.
+The website is designed to provide visitors with an engaging experience, highlighting the restaurant's offerings.
 
 ## 🧾 Features
 
@@ -56,6 +56,11 @@ To view the website locally:
 3. **Open `index.html` in your preferred web browser**.
 
 No additional setup or dependencies are required.
+
+## Live site
+
+[Live site](https://sirtebz.github.io/Restaurant-Web/)
+
 
 ## 📄 License
 
