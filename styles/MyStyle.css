@@ -1,0 +1,159 @@
+/* Name and Surname: Teboho Mokgosi */
+/* Student Number: 2017063674 */
+/* CSIS1664 (2018) - Website Project */
+/* Filename: MyStyle.css */
+
+/* ---General CSS Rules--- */
+
+ {
+	margin: 0;
+	padding: 0;
+ }
+
+ body {
+ 		background-color: #D3D3D3;
+ 		color: #800000;
+ 		font: 100%/1.1 sans-serif;
+ }
+
+ h1,h2,h3,h4 
+ {	
+	 font-weight: normal;
+ }
+
+ h1 {text-align: center;
+ 	font-style: italic;
+ 	text-transform: uppercase;
+	text-decoration: underline;}
+
+ h2 {text-align: center;}	
+	
+ ul
+ {
+	margin-left: 15px;
+ }
+
+ p 
+ {
+	padding: 10px 10px;
+	font-style: normal;
+ }
+
+ a {color: #FFD700;}
+
+ a:hover {color: #ffffff;}
+
+
+ img {border: 2px solid #800000}
+
+ caption {font-weight: Bold;
+		 font-size: 150%;
+		 text-transform: uppercase;}
+
+ table {text-align: center;}
+
+/* ---Style Divisions---*/
+
+ div#Header, div#Footer {background-color: #800000;
+ }
+
+ div#Header a:link {font-weight: bold;
+					text-align: center;
+					position: relative;
+					text-decoration: none;
+					font: 128%/1 sans-serif;
+					font-weight: bold;
+					
+					}
+					
+ div#Header ul {margin-top: 2px;
+			margin-bottom: 2px;
+			list-style-type: none;}
+
+	div#Header li {float: left;}
+
+	div#Header li a {width: 80px;
+				height: 25px;
+				text-align: center;
+				display: inline;
+				margin-right: 10px;
+				font-size: 1.2em;
+				padding: 5px;
+				position: absolute;
+				bottom: 80px;
+				left: 145px;}
+
+ div#Header {border: 2px solid #800000;
+			background-color: #800000;
+			padding: 10px 10px;
+ }
+
+ div#Header ul {list-style-type: none;}
+
+ div#Content {background-color: #D3D3D3;
+			 position: relative;
+			 bottom: 10px;
+			 text-align: Left;}
+			 
+ div#Content a {color: #800000;}
+ div#Content a:hover {color: #FFD700;}
+			 
+ div#table {margin-left: 120px;
+		   margin-right: 50px;
+		   border: collapse;
+		   }
+
+ div#Middle {width: 720px;
+			margin-left: 10px;
+			padding-top: -25px;
+			padding-left: 5px;
+			padding-bottom: 5px;}
+
+ div#MiddleContact {margin-left: 50px;}
+
+ div#Right {float: right;
+		   position: absolute;
+		   top: 0;
+		   right: 0;
+		   margin-top: 35px;
+		   margin-right: 20px;
+		   margin-left: 680px;}
+
+ div#Footer {border: 2px solid #800000;
+			background-color: #800000;
+			color: #ffffff;
+			text-align: center;
+			font-weight: normal;}
+			
+ div#Hours {border: 2px solid #800000;
+		   text-align: center;
+		   float: right;
+		   position: absolute;
+		   top: 0;
+		   right: 0;
+		   margin-top: 100px;
+		   margin-right: 20px;
+		   margin-left: 680px;}
+
+ div#Images {text-align: center;}
+
+ div#Map {border: 2px solid #800000;
+		 background-color: #800000;
+		 width: 995px;
+		 text-align: center;
+		 }
+
+/* ---Style Classes---*/
+
+ .Navigate {width: 1024px;
+		   margin: auto;}
+
+ .Gallery {text-align: center;}
+
+ .Right {float: right;
+		position: absolute;
+		top: 0;
+		right: 0;
+		margin-top: 50px;
+		margin-right: 20px;
+		margin-left: 680px;}
